@@ -1,0 +1,7 @@
+requests
+asyncio
+loguru
+websockets_proxy
+fake_useragent
+websockets==12.0
+colorama
